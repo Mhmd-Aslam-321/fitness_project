@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite3
+.env
+
+# Virtualenv
+venv/
+env/
+
+# VSCode or PyCharm settings
+.vscode/
+.idea/
+
+# Django
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+.DS_Store
+
+# Node.js (if frontend included)
+node_modules/
+build/
+dist/
+
+# Secrets
+*.env
+secrets.json
