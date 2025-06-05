@@ -27,7 +27,7 @@ A RESTful API built using Django and Django REST Framework that allows clients t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/Mhmd-Aslam-321/fitness_project.git
 cd your-project
 ```
 
